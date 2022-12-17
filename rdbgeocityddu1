@@ -1,7 +1,7 @@
 [
   {
     "number": 0,
-    "route": "GEO",
+    "route": "RDB",
     "destZ": "暫停服務",
     "engdestZ": "Not In Service",
     "destY": "暫停服務",
